@@ -37,7 +37,7 @@ Maven configurado
 
 Clonar o repositório:
 
-bash
+```bash
 Copiar
 Editar
 git clone https://github.com/seuusuario/post-combustivel.git
@@ -86,3 +86,4 @@ Este projeto está sob a licença MIT.
 Desenvolvido por Fernando Simões.
 📧 Email: fernandoalvessimoes@gmail.com
 🌐 LinkedIn: linkedin.com/in/fernando-simões-2446ab25
+
