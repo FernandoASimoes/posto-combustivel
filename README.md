@@ -102,6 +102,7 @@ Este projeto está sob a licença [MIT](LICENSE).
 ## 👨‍💻 Autor
 Desenvolvido por Fernando Simões.
 📧 Email: fernandoalvessimoes@gmail.com
-🌐 LinkedIn: linkedin.com/in/fernando-simões-2446ab25
+🌐 LinkedIn: <a href="linkedin.com/in/fernando-simões-2446ab25">linkedin.com/in/fernando-simões-2446ab25</a>
+
 
 
