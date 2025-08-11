@@ -19,7 +19,8 @@ O projeto utiliza banco de dados em memória (**H2**) para facilitar testes e de
 
 ## 📂 Estrutura do Projeto
 
-```plaintext
+<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:5px;">
+<pre>
 src/
  ├── main/
  │   ├── java/com/devtech/postcombustivel   # Código-fonte Java
@@ -27,63 +28,80 @@ src/
  │   │   ├── application.properties
  │   │   └── static / templates
  └── test/                                  # Testes automatizados
+</pre>
+</div>
 
-🔧 Como Executar
-Pré-requisitos:
+---
 
-Java 21 instalado
+## 🔧 Como Executar
 
-Maven configurado
+**1. Pré-requisitos:**
+- Java 21 instalado
+- Maven configurado
 
-Clonar o repositório:
-
-```bash
-Copiar
-Editar
+**2. Clonar o repositório:**
+<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:5px;">
+<pre>
 git clone https://github.com/seuusuario/post-combustivel.git
 cd post-combustivel
-Rodar a aplicação:
+</pre>
+</div>
 
-bash
-Copiar
-Editar
+**3. Rodar a aplicação:**
+<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:5px;">
+<pre>
 mvn spring-boot:run
-Acessar no navegador:
+</pre>
+</div>
 
-arduino
-Copiar
-Editar
+**4. Acessar no navegador:**
+<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:5px;">
+<pre>
 http://localhost:8080
-Acessar Console H2:
+</pre>
+</div>
 
-bash
-Copiar
-Editar
+**5. Acessar Console H2:**
+<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:5px;">
+<pre>
 http://localhost:8080/h2-console
 JDBC URL: jdbc:h2:mem:testdb
-
 Usuário: sa
+Senha: *(vazia)*
+</pre>
+</div>
 
-Senha: (vazia)
+---
 
-📌 Funcionalidades
-✅ Cadastro e consulta de dados relacionados a combustíveis
-✅ Banco de dados em memória para testes rápidos
-✅ API REST pronta para consumo
-✅ Uso de Lombok para reduzir código boilerplate
+## 📌 Funcionalidades
 
-🧪 Testes
+- ✅ Cadastro e consulta de dados relacionados a combustíveis
+- ✅ Banco de dados em memória para testes rápidos
+- ✅ API REST pronta para consumo
+- ✅ Uso de Lombok para reduzir código repetitivo
+
+---
+
+## 🧪 Testes
+
 Para executar os testes automatizados:
-
-bash
-Copiar
-Editar
+<div style="background-color:#000000; color:#ffffff; padding:10px; border-radius:5px;">
+<pre>
 mvn test
-📜 Licença
-Este projeto está sob a licença MIT.
+</pre>
+</div>
 
-👨‍💻 Autor
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
+
+---
+
+## 👨‍💻 Autor
 Desenvolvido por Fernando Simões.
 📧 Email: fernandoalvessimoes@gmail.com
 🌐 LinkedIn: linkedin.com/in/fernando-simões-2446ab25
+
 
