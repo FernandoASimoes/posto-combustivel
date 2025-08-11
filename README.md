@@ -100,9 +100,11 @@ Este projeto está sob a licença [MIT](LICENSE).
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por Fernando Simões.
-📧 Email: fernandoalvessimoes@gmail.com
+Desenvolvido por Fernando Simões  
+📧 Email: seuemail@exemplo.com  
 🌐 LinkedIn: <a href="https://linkedin.com/in/fernando-simões-2446ab25" target="_blank">linkedin.com/in/fernando-simões-2446ab25</a>
+
+
 
 
 
